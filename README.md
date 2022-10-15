@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KrushanPatel
+- 👀 It's Now or Never!!
+- 🌱 // Bears N Bulls // Algo Trading // Statistics // Python // 
+- 💞️ // L👀 K'IN forward to become Quant Researcher
+- 📫 krushanpatel2@gmail.com
