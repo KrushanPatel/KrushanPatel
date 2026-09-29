@@ -39,6 +39,10 @@ An AI-driven financial market intelligence platform with real-time market stream
 
 ---
 
+## 📫 Connect
+
+- ✉️ Email: [krushanpatel2@gmail.com](mailto:krushanpatel2@gmail.com)
+
 <!--
 Optional: GitHub stats card. Uncomment once you have more public activity.
 <img src="https://github-readme-stats.vercel.app/api?username=KrushanPatel&show_icons=true&hide_border=true" height="150" />
