@@ -1,6 +1,6 @@
 # Hi, I'm Krushan Patel 👋
 
-**Backend & AI engineer based in Ahmedabad, India.** I build production-grade Python services and LLM agent systems, focusing on the unglamorous parts that make them safe to ship: auth, rate limits, retries, observability and tests.
+**AI engineer based in Ahmedabad, India.** I build production-grade Python services and LLM agent systems, focusing on the unglamorous parts that make them safe to ship: auth, rate limits, retries, observability and tests.
 
 - 🔐 Building secure backend services with **FastAPI**, **PostgreSQL** and **Redis**
 - 🤖 Designing agentic AI systems with **LangChain 1.x** and **LangGraph**
